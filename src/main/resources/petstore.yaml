@@ -82,6 +82,7 @@ components:
           type: integer
         name:
           type: string
+          readOnly: true
         tag:
           type: string
     Pets:
