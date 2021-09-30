@@ -85,6 +85,7 @@ components:
           readOnly: true
         tag:
           type: string
+          writeOnly: true
     Pets:
       type: array
       items:
